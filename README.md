@@ -1,5 +1,5 @@
 # MCP Product Server with AI Agent
-[![M8ven Score](https://m8ven.ai/badge/mcp/aamish8/mcp_product_server_with_ai_agent)](https://m8ven.ai/mcp/aamish8/mcp_product_server_with_ai_agent?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/aamish8-mcp-product-server-with-ai-agent-1pqlsp?v=3ea7ff5b7aace084d68d271778ec419a)](https://m8ven.ai/mcp/aamish8-mcp-product-server-with-ai-agent-1pqlsp?s=readme)
 
 An MCP server integrated with an AI agent...
 A learning project with two Spring Boot apps that work together through the **Model Context Protocol (MCP)**:
